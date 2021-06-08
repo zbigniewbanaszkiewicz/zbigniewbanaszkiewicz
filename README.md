@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zbigniew Banaszkiewicz, a javascript developer.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning about Deno.
+- 🌱 I’m currently learning about Go.
 - 💞️ I’m looking to collaborate with other content creators
 - 📫 Reach me at zbigniewbanaszkiewicz70@gmail.com
 
