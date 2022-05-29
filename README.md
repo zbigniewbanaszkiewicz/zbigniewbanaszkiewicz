@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zbigniew Banaszkiewicz, a software engineer.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning about Go.
+- 🌱 I’m currently learning about Blockchain.
 - 💞️ I’m looking to collaborate with other content creators
 - 📫 Reach me at zbigniewbanaszkiewicz70@gmail.com
 
